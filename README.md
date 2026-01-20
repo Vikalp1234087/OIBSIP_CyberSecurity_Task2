@@ -1,4 +1,4 @@
-# Task 3: Capture Network Traffic with Wireshark
+# Task 2: Capture Network Traffic with Wireshark
 
 ## Objective
 Capture and analyze network traffic using Wireshark to understand packets, protocols, and services.
